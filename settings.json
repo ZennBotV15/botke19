@@ -3,7 +3,7 @@
 	"autobio": false,
 	"msg_connected": true,
 	"user_register": true,
-	"anti_delete" : false,
+	"anti_delete" : true,
 	"anticall": false,
 	"auto_welcome_msg": true,
 	"auto_leave_msg": true,
